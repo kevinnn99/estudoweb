@@ -1,0 +1,30 @@
+html{
+    font-size: 25px;
+    font-family: Knewave;  
+    background-color: black;
+    
+}
+body{
+    width: 600px;
+    margin: auto;
+    background-color: #280438;
+    padding: 0 20px 20px 20px;
+    border: 5 px solid black;
+}
+h1{
+    margin: 0;
+    padding: 20px 0;
+    color: white;
+    text-shadow: 3px 3px 1px black;
+    font-size: 60px;
+    text-align: center;
+}
+li,p{
+    font-size: 20px;
+    line-height: 2;
+    letter-spacing: 1px;   
+}
+img {
+    display: block;
+    margin: auto;
+}
